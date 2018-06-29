@@ -1,2 +1,2 @@
 # Mern_stack-TODO
-A Simple App related to Mern-stack 
+A Simple Shopping List Application, which is related to the Mern-stack Implementation.
